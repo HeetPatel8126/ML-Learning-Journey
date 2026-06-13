@@ -9,6 +9,7 @@ This workspace contains Jupyter notebooks with detailed notes and runnable examp
 ## Files
 - `ch1_machine_learning_landscape.ipynb` - Chapter 1 notes, explanations, and code examples.
 - `ch2_end_to_end_project.ipynb` - Chapter 2 ongoing work.
+- `checklist.md` - A checklist for machine learning projects.
 - `requirements.txt` - Python packages used by the notebooks.
 
 ## Requirements
